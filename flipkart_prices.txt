@@ -1,0 +1,4 @@
+timestamp,product_name,price,source_url
+2025-03-19T10:00:00,Samsung Galaxy M13,9999,https://www.flipkart.com/samsung-galaxy-m13
+2025-03-19T10:30:00,Samsung Galaxy M13,9499,https://www.flipkart.com/samsung-galaxy-m13
+2025-03-19T11:00:00,Samsung Galaxy M13,9999,https://www.flipkart.com/samsung-galaxy-m13
